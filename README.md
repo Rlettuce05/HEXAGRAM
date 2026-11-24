@@ -2,19 +2,6 @@
 
 7枚型ヘキサグラムによるタロット占い。Chromium系ブラウザで動作する静的Webアプリです。サーバー側の処理、APIキー、外部ライブラリは不要です。
 
-## 公開前の準備
-
-1. 手元のRider–Waite–Smith版の画像78枚を `images/` にコピーしてください。旧版の `download_images.py` で生成した `images/` の画像ファイルは同じ名前で利用できます。
-2. `python tools/check_assets.py` をリポジトリのルートで実行してください。期待する名前とJPEG形式の簡易チェックを行います。画像の内容や権利は別途目視で確認してください。`images/sources.json` に78枚の対応表と出典ページを収録しています。
-3. `LICENSE` の著作権者名（初期値: HEXAGRAM contributors）を実際の権利者に合わせて確認・変更してください。第三者素材はMITの対象外です。
-4. 公開リポジトリを作り、このフォルダの**中身**をルートに配置してコミットします。`.nojekyll` も含めてください。
-5. GitHubの Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main / (root) → Save。
-6. Settings → Pages に表示される HTTPS URL で動作確認してください。
-
-## ローカル実行
-
-`python -m http.server 8000` をリポジトリのルートで実行し、`http://localhost:8000/` をChromiumで開きます。HTTPSまたはlocalhostの安全なコンテキストを推奨します。カード画像を取得するための外部通信はありません。画像が不足する場合はカード名が表示されます。
-
 ## 機能
 
 - 全78枚のカード、正逆位置、配布・反転演出、個別/一括公開、手動配置
