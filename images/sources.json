@@ -1,0 +1,548 @@
+[
+  {
+    "id": "M00",
+    "name": "愚者",
+    "path": "images/M00.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_00_Fool.jpg",
+    "original_filename": "RWS Tarot 00 Fool.jpg"
+  },
+  {
+    "id": "M01",
+    "name": "魔術師",
+    "path": "images/M01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_01_Magician.jpg",
+    "original_filename": "RWS Tarot 01 Magician.jpg"
+  },
+  {
+    "id": "M02",
+    "name": "女教皇",
+    "path": "images/M02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_02_High_Priestess.jpg",
+    "original_filename": "RWS Tarot 02 High Priestess.jpg"
+  },
+  {
+    "id": "M03",
+    "name": "女帝",
+    "path": "images/M03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_03_Empress.jpg",
+    "original_filename": "RWS Tarot 03 Empress.jpg"
+  },
+  {
+    "id": "M04",
+    "name": "皇帝",
+    "path": "images/M04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_04_Emperor.jpg",
+    "original_filename": "RWS Tarot 04 Emperor.jpg"
+  },
+  {
+    "id": "M05",
+    "name": "法王",
+    "path": "images/M05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_05_Hierophant.jpg",
+    "original_filename": "RWS Tarot 05 Hierophant.jpg"
+  },
+  {
+    "id": "M06",
+    "name": "恋人",
+    "path": "images/M06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_06_Lovers.jpg",
+    "original_filename": "RWS Tarot 06 Lovers.jpg"
+  },
+  {
+    "id": "M07",
+    "name": "戦車",
+    "path": "images/M07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_07_Chariot.jpg",
+    "original_filename": "RWS Tarot 07 Chariot.jpg"
+  },
+  {
+    "id": "M08",
+    "name": "力",
+    "path": "images/M08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_08_Strength.jpg",
+    "original_filename": "RWS Tarot 08 Strength.jpg"
+  },
+  {
+    "id": "M09",
+    "name": "隠者",
+    "path": "images/M09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_09_Hermit.jpg",
+    "original_filename": "RWS Tarot 09 Hermit.jpg"
+  },
+  {
+    "id": "M10",
+    "name": "運命の輪",
+    "path": "images/M10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "original_filename": "RWS Tarot 10 Wheel of Fortune.jpg"
+  },
+  {
+    "id": "M11",
+    "name": "正義",
+    "path": "images/M11.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_11_Justice.jpg",
+    "original_filename": "RWS Tarot 11 Justice.jpg"
+  },
+  {
+    "id": "M12",
+    "name": "吊るされた男",
+    "path": "images/M12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_12_Hanged_Man.jpg",
+    "original_filename": "RWS Tarot 12 Hanged Man.jpg"
+  },
+  {
+    "id": "M13",
+    "name": "死神",
+    "path": "images/M13.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_13_Death.jpg",
+    "original_filename": "RWS Tarot 13 Death.jpg"
+  },
+  {
+    "id": "M14",
+    "name": "節制",
+    "path": "images/M14.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_14_Temperance.jpg",
+    "original_filename": "RWS Tarot 14 Temperance.jpg"
+  },
+  {
+    "id": "M15",
+    "name": "悪魔",
+    "path": "images/M15.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_15_Devil.jpg",
+    "original_filename": "RWS Tarot 15 Devil.jpg"
+  },
+  {
+    "id": "M16",
+    "name": "塔",
+    "path": "images/M16.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_16_Tower.jpg",
+    "original_filename": "RWS Tarot 16 Tower.jpg"
+  },
+  {
+    "id": "M17",
+    "name": "星",
+    "path": "images/M17.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_17_Star.jpg",
+    "original_filename": "RWS Tarot 17 Star.jpg"
+  },
+  {
+    "id": "M18",
+    "name": "月",
+    "path": "images/M18.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_18_Moon.jpg",
+    "original_filename": "RWS Tarot 18 Moon.jpg"
+  },
+  {
+    "id": "M19",
+    "name": "太陽",
+    "path": "images/M19.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_19_Sun.jpg",
+    "original_filename": "RWS Tarot 19 Sun.jpg"
+  },
+  {
+    "id": "M20",
+    "name": "審判",
+    "path": "images/M20.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_20_Judgement.jpg",
+    "original_filename": "RWS Tarot 20 Judgement.jpg"
+  },
+  {
+    "id": "M21",
+    "name": "世界",
+    "path": "images/M21.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RWS_Tarot_21_World.jpg",
+    "original_filename": "RWS Tarot 21 World.jpg"
+  },
+  {
+    "id": "Wands01",
+    "name": "ワンドのエース",
+    "path": "images/Wands01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands01.jpg",
+    "original_filename": "Wands01.jpg"
+  },
+  {
+    "id": "Wands02",
+    "name": "ワンドの2",
+    "path": "images/Wands02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands02.jpg",
+    "original_filename": "Wands02.jpg"
+  },
+  {
+    "id": "Wands03",
+    "name": "ワンドの3",
+    "path": "images/Wands03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands03.jpg",
+    "original_filename": "Wands03.jpg"
+  },
+  {
+    "id": "Wands04",
+    "name": "ワンドの4",
+    "path": "images/Wands04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands04.jpg",
+    "original_filename": "Wands04.jpg"
+  },
+  {
+    "id": "Wands05",
+    "name": "ワンドの5",
+    "path": "images/Wands05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands05.jpg",
+    "original_filename": "Wands05.jpg"
+  },
+  {
+    "id": "Wands06",
+    "name": "ワンドの6",
+    "path": "images/Wands06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands06.jpg",
+    "original_filename": "Wands06.jpg"
+  },
+  {
+    "id": "Wands07",
+    "name": "ワンドの7",
+    "path": "images/Wands07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands07.jpg",
+    "original_filename": "Wands07.jpg"
+  },
+  {
+    "id": "Wands08",
+    "name": "ワンドの8",
+    "path": "images/Wands08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands08.jpg",
+    "original_filename": "Wands08.jpg"
+  },
+  {
+    "id": "Wands09",
+    "name": "ワンドの9",
+    "path": "images/Wands09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands09.jpg",
+    "original_filename": "Wands09.jpg"
+  },
+  {
+    "id": "Wands10",
+    "name": "ワンドの10",
+    "path": "images/Wands10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands10.jpg",
+    "original_filename": "Wands10.jpg"
+  },
+  {
+    "id": "Wands11",
+    "name": "ワンドのペイジ",
+    "path": "images/Wands11.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands11.jpg",
+    "original_filename": "Wands11.jpg"
+  },
+  {
+    "id": "Wands12",
+    "name": "ワンドのナイト",
+    "path": "images/Wands12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands12.jpg",
+    "original_filename": "Wands12.jpg"
+  },
+  {
+    "id": "Wands13",
+    "name": "ワンドのクイーン",
+    "path": "images/Wands13.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands13.jpg",
+    "original_filename": "Wands13.jpg"
+  },
+  {
+    "id": "Wands14",
+    "name": "ワンドのキング",
+    "path": "images/Wands14.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wands14.jpg",
+    "original_filename": "Wands14.jpg"
+  },
+  {
+    "id": "Cups01",
+    "name": "カップのエース",
+    "path": "images/Cups01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups01.jpg",
+    "original_filename": "Cups01.jpg"
+  },
+  {
+    "id": "Cups02",
+    "name": "カップの2",
+    "path": "images/Cups02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups02.jpg",
+    "original_filename": "Cups02.jpg"
+  },
+  {
+    "id": "Cups03",
+    "name": "カップの3",
+    "path": "images/Cups03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups03.jpg",
+    "original_filename": "Cups03.jpg"
+  },
+  {
+    "id": "Cups04",
+    "name": "カップの4",
+    "path": "images/Cups04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups04.jpg",
+    "original_filename": "Cups04.jpg"
+  },
+  {
+    "id": "Cups05",
+    "name": "カップの5",
+    "path": "images/Cups05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups05.jpg",
+    "original_filename": "Cups05.jpg"
+  },
+  {
+    "id": "Cups06",
+    "name": "カップの6",
+    "path": "images/Cups06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups06.jpg",
+    "original_filename": "Cups06.jpg"
+  },
+  {
+    "id": "Cups07",
+    "name": "カップの7",
+    "path": "images/Cups07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups07.jpg",
+    "original_filename": "Cups07.jpg"
+  },
+  {
+    "id": "Cups08",
+    "name": "カップの8",
+    "path": "images/Cups08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups08.jpg",
+    "original_filename": "Cups08.jpg"
+  },
+  {
+    "id": "Cups09",
+    "name": "カップの9",
+    "path": "images/Cups09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups09.jpg",
+    "original_filename": "Cups09.jpg"
+  },
+  {
+    "id": "Cups10",
+    "name": "カップの10",
+    "path": "images/Cups10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups10.jpg",
+    "original_filename": "Cups10.jpg"
+  },
+  {
+    "id": "Cups11",
+    "name": "カップのペイジ",
+    "path": "images/Cups11.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups11.jpg",
+    "original_filename": "Cups11.jpg"
+  },
+  {
+    "id": "Cups12",
+    "name": "カップのナイト",
+    "path": "images/Cups12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups12.jpg",
+    "original_filename": "Cups12.jpg"
+  },
+  {
+    "id": "Cups13",
+    "name": "カップのクイーン",
+    "path": "images/Cups13.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups13.jpg",
+    "original_filename": "Cups13.jpg"
+  },
+  {
+    "id": "Cups14",
+    "name": "カップのキング",
+    "path": "images/Cups14.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cups14.jpg",
+    "original_filename": "Cups14.jpg"
+  },
+  {
+    "id": "Swords01",
+    "name": "ソードのエース",
+    "path": "images/Swords01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords01.jpg",
+    "original_filename": "Swords01.jpg"
+  },
+  {
+    "id": "Swords02",
+    "name": "ソードの2",
+    "path": "images/Swords02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords02.jpg",
+    "original_filename": "Swords02.jpg"
+  },
+  {
+    "id": "Swords03",
+    "name": "ソードの3",
+    "path": "images/Swords03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords03.jpg",
+    "original_filename": "Swords03.jpg"
+  },
+  {
+    "id": "Swords04",
+    "name": "ソードの4",
+    "path": "images/Swords04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords04.jpg",
+    "original_filename": "Swords04.jpg"
+  },
+  {
+    "id": "Swords05",
+    "name": "ソードの5",
+    "path": "images/Swords05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords05.jpg",
+    "original_filename": "Swords05.jpg"
+  },
+  {
+    "id": "Swords06",
+    "name": "ソードの6",
+    "path": "images/Swords06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords06.jpg",
+    "original_filename": "Swords06.jpg"
+  },
+  {
+    "id": "Swords07",
+    "name": "ソードの7",
+    "path": "images/Swords07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords07.jpg",
+    "original_filename": "Swords07.jpg"
+  },
+  {
+    "id": "Swords08",
+    "name": "ソードの8",
+    "path": "images/Swords08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords08.jpg",
+    "original_filename": "Swords08.jpg"
+  },
+  {
+    "id": "Swords09",
+    "name": "ソードの9",
+    "path": "images/Swords09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords09.jpg",
+    "original_filename": "Swords09.jpg"
+  },
+  {
+    "id": "Swords10",
+    "name": "ソードの10",
+    "path": "images/Swords10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords10.jpg",
+    "original_filename": "Swords10.jpg"
+  },
+  {
+    "id": "Swords11",
+    "name": "ソードのペイジ",
+    "path": "images/Swords11.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords11.jpg",
+    "original_filename": "Swords11.jpg"
+  },
+  {
+    "id": "Swords12",
+    "name": "ソードのナイト",
+    "path": "images/Swords12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords12.jpg",
+    "original_filename": "Swords12.jpg"
+  },
+  {
+    "id": "Swords13",
+    "name": "ソードのクイーン",
+    "path": "images/Swords13.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords13.jpg",
+    "original_filename": "Swords13.jpg"
+  },
+  {
+    "id": "Swords14",
+    "name": "ソードのキング",
+    "path": "images/Swords14.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Swords14.jpg",
+    "original_filename": "Swords14.jpg"
+  },
+  {
+    "id": "Pents01",
+    "name": "ペンタクルのエース",
+    "path": "images/Pents01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents01.jpg",
+    "original_filename": "Pents01.jpg"
+  },
+  {
+    "id": "Pents02",
+    "name": "ペンタクルの2",
+    "path": "images/Pents02.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents02.jpg",
+    "original_filename": "Pents02.jpg"
+  },
+  {
+    "id": "Pents03",
+    "name": "ペンタクルの3",
+    "path": "images/Pents03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents03.jpg",
+    "original_filename": "Pents03.jpg"
+  },
+  {
+    "id": "Pents04",
+    "name": "ペンタクルの4",
+    "path": "images/Pents04.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents04.jpg",
+    "original_filename": "Pents04.jpg"
+  },
+  {
+    "id": "Pents05",
+    "name": "ペンタクルの5",
+    "path": "images/Pents05.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents05.jpg",
+    "original_filename": "Pents05.jpg"
+  },
+  {
+    "id": "Pents06",
+    "name": "ペンタクルの6",
+    "path": "images/Pents06.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents06.jpg",
+    "original_filename": "Pents06.jpg"
+  },
+  {
+    "id": "Pents07",
+    "name": "ペンタクルの7",
+    "path": "images/Pents07.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents07.jpg",
+    "original_filename": "Pents07.jpg"
+  },
+  {
+    "id": "Pents08",
+    "name": "ペンタクルの8",
+    "path": "images/Pents08.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents08.jpg",
+    "original_filename": "Pents08.jpg"
+  },
+  {
+    "id": "Pents09",
+    "name": "ペンタクルの9",
+    "path": "images/Pents09.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents09.jpg",
+    "original_filename": "Pents09.jpg"
+  },
+  {
+    "id": "Pents10",
+    "name": "ペンタクルの10",
+    "path": "images/Pents10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents10.jpg",
+    "original_filename": "Pents10.jpg"
+  },
+  {
+    "id": "Pents11",
+    "name": "ペンタクルのペイジ",
+    "path": "images/Pents11.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents11.jpg",
+    "original_filename": "Pents11.jpg"
+  },
+  {
+    "id": "Pents12",
+    "name": "ペンタクルのナイト",
+    "path": "images/Pents12.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents12.jpg",
+    "original_filename": "Pents12.jpg"
+  },
+  {
+    "id": "Pents13",
+    "name": "ペンタクルのクイーン",
+    "path": "images/Pents13.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents13.jpg",
+    "original_filename": "Pents13.jpg"
+  },
+  {
+    "id": "Pents14",
+    "name": "ペンタクルのキング",
+    "path": "images/Pents14.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pents14.jpg",
+    "original_filename": "Pents14.jpg"
+  }
+]
